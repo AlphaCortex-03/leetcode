@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AlphaCortex-03/leetcode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AlphaCortex-03/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
