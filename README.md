@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gopalsingar2003-kolkata/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gopalsingar2003-kolkata/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AlphaCortex-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AlphaCortex-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AlphaCortex-03/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AlphaCortex-03/leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gopalsingar2003-kolkata/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AlphaCortex-03/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AlphaCortex-03/leetcode/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AlphaCortex-03/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AlphaCortex-03/leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AlphaCortex-03/leetcode/tree/master/0175-combine-two-tables) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AlphaCortex-03/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
