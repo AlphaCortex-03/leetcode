@@ -3,23 +3,10 @@ int mySqrt(int x) {
         return x;
     }
 
-    int l = 1;
-    int h = x / 2;
-    int ans = 0;
-
-    while (l <= h) {
-        int mid = l+ (h - l) / 2;
-        long long sq = (long long)mid * mid;
-
-        if (sq == x) {
-            return mid;
-        } else if (sq < x) {
-            ans = mid;
-            l = mid + 1;
-        } else {
-            h = mid - 1;
-        }
+    long long r = x;
+    while (r * r > (long long)x) {
+        r = (r + (long long)x / r) / 2;
     }
 
-    return ans;
+    return (int)r;
 }
