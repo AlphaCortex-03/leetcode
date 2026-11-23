@@ -1,3 +1,4 @@
+/* while loop use karke */
 struct ListNode* deleteDuplicates(struct ListNode* head) {
     struct ListNode* current = head;
 
